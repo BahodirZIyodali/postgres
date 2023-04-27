@@ -10,7 +10,7 @@
 --   price int not null,
 --   isSold boolen default false
 -- );
-
+ 
 
 
 -- INSERT INTO goods(title, descs,price)
