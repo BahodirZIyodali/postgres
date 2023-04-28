@@ -1,4 +1,9 @@
 
+\l
+\c nt
+\d
+\dt
+
 
 CREATE TABLE Users (
   user_id INT PRIMARY KEY,
