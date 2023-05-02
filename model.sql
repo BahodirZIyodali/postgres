@@ -67,9 +67,6 @@ DELETE FROM goods WHERE goods_id=1;
 
 
 
-
-
-
 CREATE TABLE Users (
   user_id INT PRIMARY KEY,
   user_name VARCHAR(50),
