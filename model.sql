@@ -1,7 +1,7 @@
 
 -- NEVER FORGOT THIS ;
     
-       
+        
 --if is not  exist it'll create
 DROP DATABASE IF EXISTS product_db;
 -- or just create like that
