@@ -11,7 +11,7 @@ ALTER DATABASE product_db RENAME TO product;
 --  delete database
 DROP DATABASE product_db or product;
 
- 
+  
 --  create table 
 
 CREATE TABLE goods(
