@@ -21,7 +21,7 @@ CREATE TABLE goods(
   goods_price INT NOT NULL,
 );
 
--- change a table name
+-- change a table name 
 ALTER TABLE goods RENAME TO smth;
 -- delate a table
 DROP TABLE goods;
