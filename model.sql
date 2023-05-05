@@ -13,7 +13,7 @@ DROP DATABASE product_db or product;
   
 --  create table 
 
-CREATE TABLE goods(
+CREATE TABLE goods( 
   goods_id SERIAL NOT NULL,
   goods_title VARCHAR(50) NOT NULL,
   goods_descs TEXT NOT NULL,
