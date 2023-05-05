@@ -4,7 +4,7 @@
 --if is not  exist it'll create
 DROP DATABASE IF EXISTS product_db;
 -- or just create like that
-CREATE DATABASE product_db;
+CREATE DATABASE product_db; 
 --  change database name
 ALTER DATABASE product_db RENAME TO product;
 --  delete database
